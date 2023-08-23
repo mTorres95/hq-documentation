@@ -1,0 +1,5 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'HQ DOCUMENTATION'
+
+theme = 'hugo-theme-relearn-main'
